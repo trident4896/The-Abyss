@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0f54815298b6492439898d41955ea033
+timeCreated: 1511883979
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: newSlendermanswriting
+  fontNames:
+  - newSlendermanswriting
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
